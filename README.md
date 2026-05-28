@@ -1,9 +1,8 @@
-```md id="5vk02s"
 # Ali Dakwar
 
 Cybersecurity graduate student with interests in network defense, security operations, infrastructure security, and operational technology (OT/ICS) environments.
 
-Incoming M.S. in Cybersecurity (Cyber-Physical Systems track) at Georgia Tech with a background in computer science, embedded systems, and hands-on cybersecurity projects.
+Incoming M.S. in Cybersecurity at Georgia Tech with a background in computer science, embedded systems, and hands-on cybersecurity projects.
 
 ---
 
@@ -139,7 +138,7 @@ Provided technical support and troubleshooting for desktops, user accounts, prin
 ## Education
 
 **Georgia Institute of Technology**  
-M.S. Cybersecurity (Cyber-Physical Systems Track) — Expected 2028
+M.S. Cybersecurity — Expected 2028
 
 **The University of Texas at Dallas**  
 B.S. Computer Science — May 2025
