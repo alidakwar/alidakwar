@@ -1,7 +1,5 @@
 # Hi, I'm Ali Dakwar 👋
  
-**he/him** · M.S. Cybersecurity @ Georgia Tech | Security IAM Intern @ City of Dallas | Recent CS Grad @ UTD
- 
 Cybersecurity graduate student focused on identity & access management, security operations, infrastructure security, and OT/ICS environments.
  
 ---
